@@ -1,4 +1,32 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "eliverlara.andromeda",
+    "christian-kohler.npm-intellisense",
+    "luis-reyes.synth-wave-remix",
+    "wallabyjs.console-ninja",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "figma.figma-vscode-extension",
+    "github.codespaces",
+    "eamodio.gitlens",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-vscode.live-server",
+    "glenn2223.live-sass",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "idered.npm",
+    "howardzuo.vscode-npm-dependency",
+    "zhuangtongfa.material-theme",
+    "msjsdiag.vscode-react-native",
+    "suryadevelops.react-redux-es7-snippets",
+    "humao.rest-client",
+    "burkeholland.simple-react-snippets",
+    "robbowen.synthwave-vscode",
+    "codesacha.synthwave--2077",
+    "bradlc.vscode-tailwindcss",
+    "chakrounanas.turbo-console-log"
+  ],
   "unwantedRecommendations": []
 }
